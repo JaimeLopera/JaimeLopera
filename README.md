@@ -13,20 +13,19 @@ I enjoy turning ideas into working prototypes and improving both front-end funda
 
 ## 💼 Skills & Tools
 - **Languages:** Python · HTML · CSS  
-- **Tools:** Git · GitHub · Visual Studio Code  
+- **Tools:** · GitHub · Visual Studio Code  
 - **Interests:** Responsive web design · Automation basics · Clean code
 
 ---
 
 ## 🚧 What I’m learning right now
-- Advanced HTML (accessibility, semantic HTML)  
+- HTML (accessibility, semantic HTML)  
 - CSS layouts (Flexbox, Grid) and responsive techniques  
 - Python fundamentals and simple automation scripts
 
 ---
 
 ## 📂 Projects (highlights)
-*(Short project blurbs — replace with links to your repos)*
 
 - **Personal Portfolio** — A responsive site showcasing my projects and CV.  
 - **Mini Python Scripts** — Small automation scripts that automate routine tasks.  
@@ -45,15 +44,3 @@ I enjoy turning ideas into working prototypes and improving both front-end funda
 - **Email:** lopera.velazquez.jaime@gmail.com
 
 ---
-
-## 📈 GitHub (optional badges & stats)
-You can add dynamic stats and badges to showcase activity and languages. Popular tools and patterns for profile READMEs include github-readme-stats and other badge generators — they are widely used in standout profiles. :contentReference[oaicite:1]{index=1}
-
-Example (add under Contact or at the top):
-
-```md
-<!-- GitHub stats card -->
-![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-
-<!-- Top languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
