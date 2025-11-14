@@ -1,4 +1,4 @@
-# 👋 Hi — I’m Jaime Lopera Velázquez
+# I’m Jaime Lopera Velázquez
 
 **Web Developer in training · 1st year DAW student**  
 I build small web apps while learning core technologies and best practices. I focus on writing clean, maintainable code and shipping projects that teach me something new.
@@ -22,21 +22,6 @@ I enjoy turning ideas into working prototypes and improving both front-end funda
 - HTML (accessibility, semantic HTML)  
 - CSS layouts (Flexbox, Grid) and responsive techniques  
 - Python fundamentals and simple automation scripts
-
----
-
-## 📂 Projects (highlights)
-
-- **Personal Portfolio** — A responsive site showcasing my projects and CV.  
-- **Mini Python Scripts** — Small automation scripts that automate routine tasks.  
-- **HTML/CSS Exercises** — Responsive components and layout experiments.
-
----
-
-## 🎯 Goals
-- Build and publish a portfolio site with 3–5 representative projects.  
-- Get comfortable with Python scripting for day-to-day automation.  
-- Learn version control workflows and collaborative development practices.
 
 ---
 
