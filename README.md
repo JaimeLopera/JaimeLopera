@@ -13,11 +13,7 @@ Languages:
 
 Tools:
 
-Interests: * 📱 Responsive web design
-
-🤖 Automation basics
-
-✨ Clean code
+Interests: Responsive web design, Automation basics, Clean code.
 
 📫 Contact
 Email: lopera.velazquez.jaime@gmail.com
