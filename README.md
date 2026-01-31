@@ -39,5 +39,3 @@ I am a Web Application Development (DAW) student at **IES Zaidín Vergeles** in 
 📱 Phone: **+34 693 254 197**
 
 ---
-
-⭐ *Always learning, always building.*
