@@ -1,24 +1,43 @@
-I’m Jaime Lopera Velázquez
-Web Developer in training · 1st year DAW student I am a Web Application Development (DAW) student at IES Zaidín Vergeles in Granada, Spain.
+# Hi, I'm Jaime Lopera Velázquez 👋  
+**Web Developer in Training · 1st Year DAW Student**
 
-🔎 About ME:
+I am a Web Application Development (DAW) student at **IES Zaidín Vergeles** in Granada, Spain 🇪🇸.
 
-🎓 Pursuing a Higher Tech Degree in Web Application Development.
+---
 
-🛠️ Focused on learning clean code, logic, and web standards.
+## 🔎 About Me
 
-🎯 Goal: To become a versatile Full Stack Developer.
+🎓 Currently pursuing a **Higher Technical Degree in Web Application Development**  
+🛠️ Focused on **clean code, programming logic, and web standards**  
+🎯 Goal: Become a **versatile Full Stack Developer**
 
-💼 Skills & Tools:
+---
 
-Languages:
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 💼 Skills & Tools
 
-Tools:
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white)
 
-Interests: Responsive web design, Automation basics, Clean code.
+### 🧰 Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-📫 Contact:
+---
 
-Email: lopera.velazquez.jaime@gmail.com
-Phone: +34 693254197
+## 🌱 Interests
+- Responsive Web Design  
+- Automation Basics  
+- Clean Code Practices  
+
+---
+
+## 📫 Contact
+
+📧 Email: **lopera.velazquez.jaime@gmail.com**  
+📱 Phone: **+34 693 254 197**
+
+---
+
+⭐ *Always learning, always building.*
