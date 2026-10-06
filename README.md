@@ -1,5 +1,5 @@
 # Hi, I'm Jaime Lopera Velázquez 
-**Web Developer in Training · 1st Year DAW Student**
+**Web Developer in Training · 2nd Year DAW Student**
 
 I am a Web Application Development (DAW) student at **IES Zaidín Vergeles** in Granada, Spain.
 
