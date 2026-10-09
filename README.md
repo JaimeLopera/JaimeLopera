@@ -33,7 +33,6 @@ With previous internship experience at Kliché and a disciplined, analytical app
       <h3>Backend & Logic</h3>
       <p>
         <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
         <img src="https://img.shields.io/badge/PHP%20%2F%20Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="PHP Laravel" />
       </p>
     </td>
