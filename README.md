@@ -12,7 +12,7 @@
   </p>
   <p>
     <a href="https://github.com/JaimeLopera"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-    <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+    <a href="https://www.linkedin.com/in/jaime-lopera-vel%C3%A1zquez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
   </p>
 </div>
 
@@ -81,7 +81,7 @@ With previous internship experience at Kliché and a highly disciplined approach
 ## 04 &nbsp; Connect & Collaborate
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/jaime-lopera-vel%C3%A1zquez/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
   <br/><br/>
   <sub>Actively exploring FCT placement opportunities at technology companies for 2026/2027.</sub>
 </div>
