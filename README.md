@@ -8,7 +8,7 @@
   <p align="center">
     <strong>Software Developer | Full-Stack & Systems Architecture</strong>
     <br />
-    <sub>Granada, Spain • C1 English • Open to Enterprise FCT Opportunities</sub>
+    <sub>Granada, Spain • B2 English • Open to Enterprise FCT Opportunities</sub>
   </p>
   <p>
     <a href="https://github.com/JaimeLopera"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
@@ -19,9 +19,9 @@
 <br/>
 
 ## 01 &nbsp; Professional Summary
-I am a Software Developer focused on building scalable web applications, managing system architectures, and engineering automated workflows. Currently completing my second year of Web Application Development (DAW) at IES Zaidín Vergeles, I combine academic rigor with practical experience in low-level system mechanics, container orchestration, and full-stack environments.
+I am a Software Developer focused on building scalable web applications, managing system architectures, and engineering automated workflows. Currently completing my second year of Web Application Development (DAW) at IES Zaidín Vergeles.
 
-With previous internship experience at Kliché and a disciplined, analytical approach to software design, I am actively seeking an enterprise-level FCT placement. My long-term trajectory is focused on pursuing Computer Engineering and tackling high-impact software challenges in international environments.
+With previous internship experience at Kliché and a disciplined, analytical approach to software design. My long-term trajectory is focused on pursuing Computer Engineering and tackling high-impact software challenges in international environments.
 
 <br/>
 
@@ -34,18 +34,13 @@ With previous internship experience at Kliché and a disciplined, analytical app
       <p>
         <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
         <img src="https://img.shields.io/badge/PHP%20%2F%20Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="PHP Laravel" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>Databases & Architecture</h3>
       <p>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-        <img src="https://img.shields.io/badge/NoSQL-3FA037?style=for-the-badge&logo=mongodb&logoColor=white" alt="NoSQL" />
       </p>
     </td>
   </tr>
@@ -62,10 +57,7 @@ With previous internship experience at Kliché and a disciplined, analytical app
     <td width="50%" valign="top">
       <h3>Ops, Systems & Tools</h3>
       <p>
-        <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/Linux%20Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/VPS%20Hosting-252525?style=for-the-badge&logo=linux&logoColor=white" alt="VPS Server Management" />
       </p>
     </td>
   </tr>
