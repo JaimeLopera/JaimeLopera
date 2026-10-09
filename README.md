@@ -8,7 +8,7 @@
   <p align="center">
     <strong>Software Developer | Web Applications</strong>
     <br />
-    <sub>Granada, Spain • C1 English • Open to Enterprise FCT Opportunities</sub>
+    <sub>Granada, Spain • B2 English • Open to Enterprise FCT Opportunities</sub>
   </p>
   <p>
     <a href="https://github.com/JaimeLopera"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
